@@ -8,6 +8,7 @@ import Home from './Pages/Home/Home.jsx'
 import Apps from './Pages/Apps/Apps.jsx'
 import Installation from './Pages/Installation/Installation.jsx'
 import PageNotFound from './Pages/ErrorPages/PageNotFound.jsx'
+import AppDetails from './Components/AppDetails/AppDetails.jsx'
 
 const router = createBrowserRouter([
   {
@@ -21,7 +22,11 @@ const router = createBrowserRouter([
         Component: Home 
       },
       { path: '/apps', Component: Apps },
-      { path: '/installation', Component: Installation }
+      { path: '/installation', Component: Installation },
+      { path: '/appDetails/:id', 
+        loader:()=>fetch('/appdata.json'),
+        Component: AppDetails 
+      }
     ]
   }
 ]);

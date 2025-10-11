@@ -1,7 +1,6 @@
 import { Suspense, use, useEffect, useState } from "react";
 import { IoSearch } from "react-icons/io5";
 import DataItem from "../DataItem/DataItem";
-import { LoadingPages } from "../../Pages/LoadingPages/LoadingPages";
 
 
 export default function AppDatas({ itemsPromise }) {

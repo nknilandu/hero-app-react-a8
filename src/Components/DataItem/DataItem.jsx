@@ -1,33 +1,37 @@
 
+import { Link } from 'react-router';
 import downloadsIcon from '../../assets/icon-downloads.png'
 import ratingIcon from '../../assets/icon-ratings.png'
 
-export default function DataItem({item}) {
+export default function DataItem({ item }) {
 
-    const {image, title, id, ratingAvg, downloads} = item;
+    const { image, title, id, ratingAvg, downloads } = item;
 
     return (
-        <div className="bg-white h-fit rounded-lg p-4 shadow-xl hover:shadow-2xl transition-all duration-300">
-            <div className="bg-[#d9d9d9] w-full h-[150px] md:h-[200px] rounded-lg mb-4 overflow-hidden">
-                <img src={image} alt="product" className='w-full h-full object-cover object-center' />
-            </div>
-            <div className="space-y-3">
-                <h3 className="text-xl font-medium text-[#001931] capitalize"> {title}
-                </h3>
-                <div className="flex justify-between items-center">
-                    <div
-                        className="flex items-center gap-2 bg-[#f1f5e8] text-[#00d390] px-3 py-1 rounded text-sm font-medium">
-                        <img src={downloadsIcon} alt="Downloads" className="w-4 h-4" />
-                        {downloads}
-                    </div>
-                    <div
-                        className="flex items-center gap-2 bg-[#fff0e1] text-[#ff8811] px-3 py-1 rounded text-sm font-medium">
-                        <img src={ratingIcon} alt="Rating" className="w-4 h-4" />
-                        {ratingAvg}
+        <Link to={`/appDetails/${id}`}>
+            <div className="bg-white h-fit rounded-lg p-4 shadow-xl hover:shadow-2xl transition-all duration-300">
+                <div className="bg-[#d9d9d9] w-full h-[150px] md:h-[200px] rounded-lg mb-4 overflow-hidden">
+                    <img src={image} alt="product" className='w-full h-full object-cover object-center' />
+                </div>
+                <div className="space-y-3">
+                    <h3 className="text-xl font-medium text-[#001931] capitalize"> {title}
+                    </h3>
+                    <div className="flex justify-between items-center">
+                        <div
+                            className="flex items-center gap-2 bg-[#f1f5e8] text-[#00d390] px-3 py-1 rounded text-sm font-medium">
+                            <img src={downloadsIcon} alt="Downloads" className="w-4 h-4" />
+                            {downloads}
+                        </div>
+                        <div
+                            className="flex items-center gap-2 bg-[#fff0e1] text-[#ff8811] px-3 py-1 rounded text-sm font-medium">
+                            <img src={ratingIcon} alt="Rating" className="w-4 h-4" />
+                            {ratingAvg}
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </Link>
+
     );
 }
 
