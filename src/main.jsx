@@ -7,6 +7,7 @@ import AppNotFound from './Pages/ErrorPages/AppNotFound.jsx'
 import Home from './Pages/Home/Home.jsx'
 import Apps from './Pages/Apps/Apps.jsx'
 import Installation from './Pages/Installation/Installation.jsx'
+import PageNotFound from './Pages/ErrorPages/PageNotFound.jsx'
 
 const router = createBrowserRouter([
   {
@@ -14,12 +15,17 @@ const router = createBrowserRouter([
     Component: Root,
     errorElement: <AppNotFound></AppNotFound>,
     children: [
-      { index: true, Component: Home },
+      { 
+        index: true,
+        errorElement:<PageNotFound></PageNotFound>,
+        Component: Home 
+      },
       { path: '/apps', Component: Apps },
       { path: '/installation', Component: Installation }
     ]
   }
 ]);
+
 
 
 createRoot(document.getElementById('root')).render(
