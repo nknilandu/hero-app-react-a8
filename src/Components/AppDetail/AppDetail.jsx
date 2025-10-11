@@ -1,11 +1,11 @@
 import { use } from "react";
 
 
-export default function AppDetail({itemsPromise}) {
+export default function AppDetail({ itemsPromise }) {
 
     const appData = use(itemsPromise)
-  return (
-    <div className="w-full min-h-screen bg-gray-100 flex justify-center py-10 px-4">
+    return (
+        <div className="w-full min-h-screen bg-gray-100 flex justify-center py-10 px-4">
             <div className="w-full max-w-7xl flex flex-col gap-10">
                 {/* Top Section */}
                 <div className="flex flex-col md:flex-row gap-10 items-start">
@@ -62,6 +62,5 @@ export default function AppDetail({itemsPromise}) {
             </div>
         </div>
 
-
-  );
+    );
 }

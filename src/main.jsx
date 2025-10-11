@@ -14,18 +14,29 @@ const router = createBrowserRouter([
   {
     path: '/',
     Component: Root,
-    errorElement: <AppNotFound></AppNotFound>,
+    errorElement: <PageNotFound></PageNotFound>,
     children: [
-      { 
+      {
         index: true,
-        errorElement:<PageNotFound></PageNotFound>,
-        Component: Home 
+        Component: Home
       },
-      { path: '/apps', Component: Apps },
-      { path: '/installation', Component: Installation },
-      { path: '/appDetails/:id', 
-        loader:()=>fetch('/appdata.json'),
-        Component: AppDetails 
+      {
+        path: '/apps',
+        Component: Apps
+      },
+      {
+        path: '/installation',
+        loader: () => fetch('/appdata.json'),
+        Component: Installation
+      },
+      {
+        path: '/appDetails/:id',
+        loader: () => fetch('/appdata.json'),
+        Component: AppDetails
+      },
+      {
+        path: '*',
+        Component: AppNotFound
       }
     ]
   }

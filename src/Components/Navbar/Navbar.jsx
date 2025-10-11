@@ -40,7 +40,7 @@ export default function Navbar() {
                             </ul>}
                         </div>
 
-                        <Link className="text-xl flex items-center gap-2" to='/' >
+                        <Link className="text-xl flex items-center gap-2" >
                             <img className='h-5.5' src={logo} alt="logo" />
                             <h1 className='text-[#733ce7] font-bold'>HERO.IO</h1>
                         </Link>
