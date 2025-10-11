@@ -1,50 +1,51 @@
-import { use } from "react";
-import AppData from "../AppData/AppData";
-import { Link } from "react-router";
+import { use, useEffect, useState } from "react";
+import { IoSearch } from "react-icons/io5";
+import DataItem from "../DataItem/DataItem";
 
 
 export default function AppDatas({ itemsPromise }) {
 
     const data = use(itemsPromise)
+    const [totalData, setTotalData] = useState(0)
 
-    const newData = [];
-    for (let i = 0; i < 8; i++) {
-        newData.push(data[i])
-
-    }
-
+    useEffect(()=> {
+        if(data){
+            setTotalData(data.length)
+        }
+    }, [data]);
 
     return (
 
 
-        <div className="bg-[#f5f5f5] py-12">
-            <div className="w-full max-w-[1440px] mx-auto">
-                <div id="1:762" className="flex flex-col items-center gap-3 mb-16">
-                    <h2 id="1:763" className="text-[32px] md:text-[48px] font-bold text-[#001931] text-center capitalize">
-                        Trending Apps
-                    </h2>
-                    <p id="1:764" className="text-xl text-[#627281] text-center px-5">
-                        Explore All Trending Apps on the Market developed by us
-                    </p>
-
-                    {/* <!-- Apps Grid --> */}
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 mb-12 mx-5 w-full px-4">
-                        {
-                            newData.map(item => <AppData key={item.id} item={item}></AppData>)
-                        }
-                    </div>
+        <div className="max-w-7xl mx-auto px-4">
+            <div>
+                <h2 className="text-[32px] md:text-[48px] font-bold text-[#001931] text-center capitalize mt-12">Our All Applications</h2>
+                <p className="text-xl text-[#627281] text-center mb-6">Explore All Apps on the Market developed by us. We code for Millions</p>
 
 
-                    {/* <!-- Show All Button --> */}
-                    <div className="flex justify-center">
-                        <Link to='/apps'
-                            className="bg-gradient-to-r from-[#632ee3] to-[#9f62f2] text-white font-semibold px-8 py-3 rounded capitalize hover:shadow-xl transition">
-                            Show All
-                        </Link>
+                <div className="flex justify-between items-center gap-4 mb-10">
+                    <h3 className="text-black font-bold text-lg mb-2">({totalData}) Apps Found</h3>
+
+                    <div className="box-border overflow-hidden flex justify-center items-center gap-2 border border-[#6273826e] w-fit px-2 py-1 rounded-md focus-within:border-[#6f38e6] focus-within:border-2 transition-colors">
+                        <IoSearch className="text-[#627382]" />
+                        <input type="text" placeholder="Search" className="placeholder-[#627382] focus-within:text-[#6f38e6] text-black outline-none box-border overflow-hidden" />
                     </div>
                 </div>
             </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 w-full mb-15">
+                {
+                    data.map(item => <DataItem key={item.id} item={item}></DataItem>)
+                    
+                }
+            </div>
+
         </div>
+
+
+
+
+
 
 
     );

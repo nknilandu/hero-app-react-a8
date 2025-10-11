@@ -1,14 +1,15 @@
+
 import downloadsIcon from '../../assets/icon-downloads.png'
 import ratingIcon from '../../assets/icon-ratings.png'
 
-export default function AppData({item}) {
+export default function DataItem({item}) {
 
     const {image, title, id, ratingAvg, downloads} = item;
 
     return (
         <div className="bg-white rounded-lg p-4 shadow-xl hover:shadow-2xl transition-all duration-300">
-            <div className="bg-[#d9d9d9] w-full h-[200px] md:h-[316px] rounded-lg mb-4 overflow-hidden">
-                <img src={image} alt="product" className='w-full object-cover object-center' />
+            <div className="bg-[#d9d9d9] w-full h-[150px] md:h-[200px] rounded-lg mb-4 overflow-hidden">
+                <img src={image} alt="product" className='w-full h-full object-cover object-center' />
             </div>
             <div className="space-y-3">
                 <h3 className="text-xl font-medium text-[#001931] capitalize"> {title}

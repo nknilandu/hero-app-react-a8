@@ -1,8 +1,19 @@
+import { Suspense } from "react";
+import { LoadingPages } from "../LoadingPages/LoadingPages";
+import AppDatas from "../../Components/AppDatas/AppDatas";
+
 
 export default function Apps() {
+
+  const itemsPromise = fetch('appdata.json').then(res => res.json())
+
   return (
-    <div>
-        <h1 className="bg-purple-500 m-5">ami app</h1>
-    </div>
+
+      <div  className="w-full h-full">
+        <Suspense fallback={<LoadingPages></LoadingPages>}>
+          <AppDatas itemsPromise={itemsPromise}></AppDatas>
+        </Suspense>
+      </div>
+
   );
 }
