@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="bg-[#001931]">
 
             <div className="max-w-7xl mx-auto">
-                <footer className="footer flex flex-col md:flex-row gap-10 text-neutral-content p-10">
+                <footer className="footer flex flex-col md:flex-row gap-10 text-neutral-content p-16">
                     <aside className="flex-1">
                         <svg
                             width="50"

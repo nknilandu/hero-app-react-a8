@@ -7,7 +7,7 @@ export default function DataItem({item}) {
     const {image, title, id, ratingAvg, downloads} = item;
 
     return (
-        <div className="bg-white rounded-lg p-4 shadow-xl hover:shadow-2xl transition-all duration-300">
+        <div className="bg-white h-fit rounded-lg p-4 shadow-xl hover:shadow-2xl transition-all duration-300">
             <div className="bg-[#d9d9d9] w-full h-[150px] md:h-[200px] rounded-lg mb-4 overflow-hidden">
                 <img src={image} alt="product" className='w-full h-full object-cover object-center' />
             </div>
