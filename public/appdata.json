@@ -1,15 +1,15 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1593044642748-878c0f8a823a?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/dSrzwk8/manas-rb-9hm-BHr79s-FM-unsplash.jpg",
     "title": "ChatVerse",
     "companyName": "NovaTech Labs",
     "developer": "Aiden Carter",
     "id": 1,
-    "description": "ChatVerse is a next-generation AI-powered messaging platform that lets you stay connected with friends, family, and intelligent virtual assistants all in one place. It offers secure end-to-end encryption, smart chat organization, real-time translation, and seamless multi-device syncing, ensuring you never miss a conversation no matter where you are.",
-    "size": "120MB",
-    "reviews": "258K",
+    "description": "ChatVerse is a revolutionary next-generation AI-powered messaging platform that transforms the way you communicate and connect with friends, family, colleagues, and intelligent virtual assistants all in one seamless, unified experience. Built with cutting-edge technology and user-centric design principles, ChatVerse offers military-grade end-to-end encryption to ensure your conversations remain private and secure, while providing advanced smart chat organization features that automatically categorize and prioritize your messages based on importance and context. The platform includes real-time translation capabilities supporting over 100 languages, making global communication effortless and breaking down language barriers instantly. With seamless multi-device syncing across smartphones, tablets, desktops, and smartwatches, you'll never miss a conversation no matter where you are or which device you're using. The AI assistant integration provides intelligent suggestions, automated responses, and contextual information to enhance your communication efficiency. Additional features include voice and video calling with crystal-clear quality, file sharing with unlimited storage, customizable themes and chat backgrounds, advanced search functionality, message scheduling, read receipts, typing indicators, group chat management tools, and comprehensive privacy controls that put you in complete control of your digital communication experience.",
+    "size": 120,
+    "reviews": 258000,
     "ratingAvg": 4.6,
-    "downloads": "10M",
+    "downloads": 10000000,
     "ratings": [
       { "name": "1 star", "count": 8500 },
       { "name": "2 star", "count": 12000 },
@@ -19,16 +19,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/jkttY7MK/farhat-altaf-1-W8m-Vpa-OO48-unsplash.jpg",
     "title": "FitTrack Pro",
     "companyName": "ActivePulse Inc.",
     "developer": "Sophia Reynolds",
     "id": 2,
-    "description": "FitTrack Pro helps you achieve your health and fitness goals through personalized workout plans, diet tracking, and detailed progress insights. The app adapts to your routine with AI-based recommendations, integrates with wearables, and provides real-time coaching tips to help you stay motivated and consistent.",
-    "size": "95MB",
-    "reviews": "87.5K",
+    "description": "FitTrack Pro is your ultimate comprehensive health and fitness companion designed to help you achieve and exceed your wellness goals through scientifically-backed personalized workout plans, precise nutritional tracking, and detailed progress insights powered by advanced machine learning algorithms. The app intelligently adapts to your unique lifestyle, fitness level, and preferences with AI-based recommendations that evolve as you progress, ensuring optimal results while preventing plateaus and burnout. Seamlessly integrating with popular wearables including Apple Watch, Fitbit, Garmin, and Samsung Galaxy Watch, FitTrack Pro continuously monitors your heart rate, steps, calories burned, sleep patterns, and recovery metrics to provide holistic health insights. The platform offers thousands of professionally designed workouts spanning strength training, cardio, HIIT, yoga, pilates, and specialized programs for different fitness levels from beginner to elite athlete. Real-time coaching tips and form corrections help you maximize efficiency while minimizing injury risk. The comprehensive nutrition database includes over 2 million foods with barcode scanning, macro tracking, meal planning, and personalized recipe suggestions based on your dietary preferences and restrictions. Advanced analytics provide detailed progress reports, trend analysis, goal tracking, and achievement badges to keep you motivated and accountable. Social features allow you to connect with friends, join challenges, share achievements, and access a supportive community of like-minded individuals on similar wellness journeys.",
+    "size": 95,
+    "reviews": 87500,
     "ratingAvg": 4.4,
-    "downloads": "5M",
+    "downloads": 5000000,
     "ratings": [
       { "name": "1 star", "count": 4200 },
       { "name": "2 star", "count": 5300 },
@@ -38,16 +38,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/LdHKwbH1/hans-eiskonen-8-Pm-A-OHJGg-unsplash.jpg",
     "title": "Taskly",
     "companyName": "Orion Software",
     "developer": "Lucas Mitchell",
     "id": 3,
-    "description": "Taskly is your all-in-one productivity companion designed for both individuals and teams. Manage to-do lists, set priorities, track progress, and collaborate effortlessly across projects. With smart reminders, cloud syncing, and integration with your favorite tools, Taskly ensures that nothing slips through the cracks.",
-    "size": "60MB",
-    "reviews": "154K",
+    "description": "Taskly is your comprehensive all-in-one productivity powerhouse meticulously designed for both individual professionals and collaborative teams seeking to maximize efficiency and achieve their goals with unprecedented organization and clarity. This sophisticated task management platform goes far beyond simple to-do lists by offering advanced project management capabilities, intelligent priority algorithms, comprehensive progress tracking systems, and seamless collaboration tools that enable teams to work together effortlessly across complex projects and initiatives. The smart reminder system uses machine learning to understand your work patterns and sends personalized notifications at optimal times to ensure maximum productivity without overwhelming interruptions. Cloud syncing technology ensures your tasks, projects, and progress are instantly available across all your devices, while robust integration capabilities connect Taskly with your favorite tools including Slack, Microsoft Teams, Google Workspace, Trello, Asana, and dozens of other productivity platforms. Advanced features include Gantt charts for project visualization, time tracking with detailed analytics, automated recurring task creation, customizable workflows, team performance dashboards, deadline management with buffer alerts, resource allocation tools, milestone tracking, and comprehensive reporting capabilities. The intuitive drag-and-drop interface makes task organization effortless, while powerful search and filtering options help you quickly locate specific items even in large projects. Collaboration features include real-time commenting, file attachments, task delegation with approval workflows, team chat integration, and detailed activity logs that maintain complete project transparency and accountability.",
+    "size": 60,
+    "reviews": 154000,
     "ratingAvg": 4.7,
-    "downloads": "8M",
+    "downloads": 8000000,
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 4000 },
@@ -57,16 +57,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/5WP8wv8n/farhat-altaf-S-5-Nz-Am-EHpg-unsplash.jpg",
     "title": "SoundWave Music",
     "companyName": "EchoTunes",
     "developer": "Mia Thompson",
     "id": 4,
-    "description": "SoundWave Music lets you stream millions of songs from global artists, discover personalized playlists, and enjoy offline listening without interruptions. Whether you’re relaxing or working out, its smart recommendation engine tailors music to your mood and habits for the perfect listening experience.",
-    "size": "145MB",
-    "reviews": "312K",
+    "description": "SoundWave Music revolutionizes your audio entertainment experience by providing unlimited access to over 50 million songs from global artists spanning every genre imaginable, from mainstream hits to underground gems, classical masterpieces to experimental soundscapes. The platform's sophisticated AI-powered recommendation engine analyzes your listening history, mood patterns, time of day preferences, and contextual factors to create perfectly curated playlists that evolve with your taste and lifestyle changes. Whether you're looking to energize your morning workout, focus during work sessions, unwind after a stressful day, or discover new artists that align with your musical preferences, SoundWave's intelligent algorithms deliver the perfect soundtrack for every moment. The high-fidelity audio streaming supports lossless quality up to 24-bit/192kHz for audiophiles, while adaptive bitrate technology ensures smooth playback even on slower connections. Offline listening capabilities allow you to download thousands of songs for uninterrupted enjoyment during flights, commutes, or areas with poor connectivity. Advanced features include collaborative playlists for sharing music with friends, social discovery tools to see what your network is listening to, concert and event notifications for your favorite artists, lyrics integration with karaoke mode, crossfade mixing, gapless playback, and comprehensive listening statistics that provide insights into your musical journey. The platform also supports podcast streaming with smart recommendations, sleep timers, car mode with voice controls, and integration with smart home devices for seamless whole-house audio experiences.",
+    "size": 145,
+    "reviews": 312000,
     "ratingAvg": 4.3,
-    "downloads": "20M",
+    "downloads": 20000000,
     "ratings": [
       { "name": "1 star", "count": 19000 },
       { "name": "2 star", "count": 23000 },
@@ -76,16 +76,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/LTpMtSJ/shubham-dhage-Dx-Xnm-Haw-U1g-unsplash.jpg",
     "title": "PicPerfect",
     "companyName": "Astra Imaging",
     "developer": "Olivia Brooks",
     "id": 5,
-    "description": "PicPerfect transforms your photos into masterpieces with advanced AI filters, one-tap retouching, and color enhancement tools. Edit portraits, landscapes, or social posts effortlessly, and share your work instantly on social media platforms with stunning clarity and detail.",
-    "size": "110MB",
-    "reviews": "221K",
+    "description": "PicPerfect transforms ordinary photographs into extraordinary visual masterpieces through cutting-edge artificial intelligence technology, advanced computational photography, and professional-grade editing tools that rival expensive desktop software while maintaining the convenience and accessibility of mobile photography. This comprehensive photo editing suite offers hundreds of AI-powered filters that intelligently analyze your images and apply context-appropriate enhancements, from subtle color corrections to dramatic artistic transformations that maintain natural authenticity. The revolutionary one-tap retouching feature uses machine learning trained on millions of professional photos to automatically identify and enhance facial features, skin tone, lighting conditions, and composition elements while preserving the subject's natural beauty and character. Advanced color enhancement algorithms provide granular control over saturation, vibrance, temperature, tint, shadows, highlights, and exposure with real-time previews that help you achieve the perfect mood and atmosphere for every image. Whether you're editing portraits with professional skin smoothing and teeth whitening, enhancing landscapes with HDR processing and sky replacement, or creating engaging social media content with trendy filters and effects, PicPerfect provides the tools and intelligence to elevate your photography game. The app supports RAW image processing, batch editing for efficiency, non-destructive editing with unlimited undo/redo, advanced masking and selection tools, text and graphic overlays, collage creation, and seamless sharing to Instagram, Facebook, Twitter, TikTok, and other social platforms with optimized sizing and quality settings for each platform's requirements.",
+    "size": 110,
+    "reviews": 221000,
     "ratingAvg": 4.8,
-    "downloads": "15M",
+    "downloads": 15000000,
     "ratings": [
       { "name": "1 star", "count": 3500 },
       { "name": "2 star", "count": 4700 },
@@ -95,16 +95,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1485217988980-11786ced9454?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/HfwGR2sT/salvatore-andrea-santacroce-Nc0x-Ng-W3-G-k-unsplash.jpg",
     "title": "LearnMate",
     "companyName": "MindBridge Education",
     "developer": "Noah James",
     "id": 6,
-    "description": "LearnMate is an adaptive e-learning platform that personalizes your educational journey. Access thousands of interactive lessons, quizzes, and certifications in multiple domains. Its AI-driven analytics help you track your learning progress and master topics efficiently.",
-    "size": "130MB",
-    "reviews": "98K",
+    "description": "LearnMate is a groundbreaking adaptive e-learning platform that revolutionizes education by personalizing every aspect of your learning journey through sophisticated artificial intelligence, cognitive science principles, and engaging multimedia content designed to optimize knowledge retention and skill development across diverse subjects and learning styles. The platform provides access to over 10,000 meticulously crafted interactive lessons spanning technology, business, science, arts, languages, professional development, and academic subjects, each featuring multimedia presentations, hands-on exercises, real-world case studies, and practical applications that bridge theoretical knowledge with practical skills. The adaptive learning engine continuously analyzes your progress, learning pace, comprehension patterns, and areas of strength or difficulty to dynamically adjust content difficulty, presentation style, and pacing to match your optimal learning conditions. Comprehensive assessment tools include interactive quizzes with immediate feedback, coding challenges for technical subjects, project-based evaluations, peer review assignments, and industry-recognized certification programs that validate your expertise and enhance your professional credentials. The AI-driven analytics dashboard provides detailed insights into your learning journey with progress tracking, time spent analysis, mastery indicators, learning streak counters, and personalized recommendations for additional resources or review materials. Collaborative features enable study groups, discussion forums, mentor connections, and peer-to-peer learning opportunities that enrich the educational experience. The platform supports offline learning for uninterrupted access, multi-language support for global accessibility, integration with popular learning management systems, and mobile optimization ensuring you can learn anywhere, anytime, on any device.",
+    "size": 130,
+    "reviews": 98000,
     "ratingAvg": 4.5,
-    "downloads": "6M",
+    "downloads": 6000000,
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 6000 },
@@ -114,16 +114,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/LX8bH2w4/farhat-altaf-T7-h-N1et-O-k-unsplash.jpg",
     "title": "RoadTrip Navigator",
     "companyName": "GeoPath Systems",
     "developer": "Emma White",
     "id": 7,
-    "description": "RoadTrip Navigator helps you plan unforgettable journeys by mapping scenic routes, hidden gems, and must-see attractions. Find nearby food stops, gas stations, and lodging, all while tracking your travel history and budget for a seamless road adventure experience.",
-    "size": "155MB",
-    "reviews": "45.3K",
+    "description": "RoadTrip Navigator is the ultimate travel companion for adventurous spirits and meticulous planners alike, transforming ordinary journeys into extraordinary adventures through intelligent route planning, comprehensive destination discovery, and seamless travel management tools that ensure every mile of your road trip is memorable, efficient, and perfectly tailored to your interests and preferences. This sophisticated navigation platform goes far beyond basic GPS functionality by incorporating scenic route algorithms that identify and recommend the most beautiful, interesting, and culturally significant pathways between destinations, highlighting hidden gems, historical landmarks, natural wonders, and local attractions that typical navigation apps overlook. The comprehensive points of interest database includes detailed information about restaurants with cuisine types and ratings, gas stations with current fuel prices and amenities, lodging options from budget motels to luxury resorts with real-time availability and booking capabilities, tourist attractions with hours and admission fees, shopping centers, entertainment venues, and emergency services along your entire route. Advanced trip planning tools allow you to create multi-stop itineraries with time estimates, budget tracking that monitors fuel costs, accommodation expenses, food spending, and attraction fees, weather forecasts for each destination, packing checklists, and collaborative planning features for group trips. The travel history feature maintains a comprehensive log of your adventures with photos, notes, favorite stops, and memorable moments, creating a digital travel journal that you can revisit and share with others. Real-time traffic updates, alternative route suggestions, offline map access, voice-guided navigation, and integration with popular travel booking platforms ensure your journey remains smooth and stress-free from departure to destination.",
+    "size": 155,
+    "reviews": 45300,
     "ratingAvg": 4.2,
-    "downloads": "2.4M",
+    "downloads": 2400000,
     "ratings": [
       { "name": "1 star", "count": 2900 },
       { "name": "2 star", "count": 3700 },
@@ -133,16 +133,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/3gkQdLd/farhat-altaf-y0-Mot-SEInjs-unsplash.jpg",
     "title": "FinTrack",
     "companyName": "BlueLedger",
     "developer": "Evelyn Parker",
     "id": 8,
-    "description": "FinTrack makes managing your money simple and intuitive. Track expenses, set budgets, and gain smart insights to improve your spending habits. With visual analytics, real-time sync, and data security, you can take full control of your finances from one dashboard.",
-    "size": "80MB",
-    "reviews": "119K",
+    "description": "FinTrack revolutionizes personal finance management by transforming the complex and often overwhelming task of money management into a simple, intuitive, and empowering experience that gives you complete control over your financial future through intelligent tracking, insightful analysis, and actionable recommendations powered by advanced financial algorithms and machine learning technology. This comprehensive financial wellness platform automatically categorizes every transaction across all your bank accounts, credit cards, and digital payment systems, providing real-time expense tracking that eliminates the guesswork from budgeting and spending decisions. The sophisticated budget creation tools allow you to establish realistic spending limits for different categories, set savings goals with timeline tracking, and receive intelligent alerts when you're approaching limits or when unusual spending patterns are detected. Visual analytics transform raw financial data into clear, actionable insights through interactive charts, spending trend analysis, monthly and yearly comparisons, income vs. expense ratios, and predictive modeling that helps you understand where your money goes and identify opportunities for improvement. Advanced features include bill reminder notifications, subscription tracking to identify and eliminate unwanted recurring charges, investment portfolio monitoring, debt payoff calculators with optimization strategies, tax preparation assistance with deductible expense identification, and financial goal planning for major purchases, emergency funds, and retirement savings. The platform maintains bank-level security with 256-bit encryption, multi-factor authentication, read-only access to accounts, and comprehensive privacy controls that ensure your sensitive financial information remains completely secure and private.",
+    "size": 80,
+    "reviews": 119000,
     "ratingAvg": 4.6,
-    "downloads": "7M",
+    "downloads": 7000000,
     "ratings": [
       { "name": "1 star", "count": 4200 },
       { "name": "2 star", "count": 5000 },
@@ -152,16 +152,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da4?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/j98pGWqM/mariia-shalabaieva-TZBo-Ra-ASr74-unsplash.jpg",
     "title": "GameStation",
     "companyName": "PixelForge Studios",
     "developer": "Liam Anderson",
     "id": 9,
-    "description": "GameStation brings together the hottest casual and multiplayer games in one easy-to-access hub. Play instantly without separate downloads, challenge friends worldwide, and enjoy regular updates featuring new titles and community events.",
-    "size": "190MB",
-    "reviews": "675K",
+    "description": "GameStation represents the evolution of mobile gaming entertainment, bringing together an extensive collection of premium casual games, competitive multiplayer experiences, and social gaming features in one unified, easily accessible gaming hub that eliminates the need for multiple app downloads while providing endless hours of engaging entertainment for players of all ages and skill levels. This innovative gaming platform hosts hundreds of carefully curated games spanning every popular genre including puzzle games that challenge your mind, action-packed adventures that test your reflexes, strategy games that require tactical thinking, racing simulations with realistic physics, card games with tournaments and leaderboards, trivia challenges that expand your knowledge, and creative sandbox experiences that unleash your imagination. The seamless instant-play technology allows you to jump into any game within seconds without lengthy downloads or installations, while cloud save functionality ensures your progress is preserved across all devices. The robust multiplayer system enables real-time competition with friends and players worldwide through matchmaking algorithms that ensure fair and exciting contests, private room creation for friendly matches, guild systems for long-term collaboration, and seasonal tournaments with exclusive rewards and recognition. Regular content updates introduce fresh games, special events, limited-time challenges, and community-driven content that keeps the gaming experience dynamic and engaging. Social features include friend lists, achievement sharing, in-game chat systems, streaming capabilities for sharing gameplay moments, and comprehensive statistics tracking that monitors your gaming journey, skill progression, and accomplishments across all titles in the GameStation ecosystem.",
+    "size": 190,
+    "reviews": 675000,
     "ratingAvg": 4.1,
-    "downloads": "50M",
+    "downloads": 50000000,
     "ratings": [
       { "name": "1 star", "count": 70000 },
       { "name": "2 star", "count": 50000 },
@@ -171,16 +171,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1571171637578-0413d4132691?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/6RWhHjCx/galina-nelyubova-Nsd-Tjb3mt-E0-unsplash.jpg",
     "title": "MediCare+",
     "companyName": "HealthSync Co.",
     "developer": "Charlotte Hayes",
     "id": 10,
-    "description": "MediCare+ connects you with licensed doctors online for consultations, medication orders, and health record tracking. Get reminders for prescriptions, manage lab results, and access expert healthcare without leaving your home.",
-    "size": "100MB",
-    "reviews": "83K",
+    "description": "MediCare+ transforms healthcare accessibility and convenience by connecting patients with licensed medical professionals through secure, HIPAA-compliant telemedicine technology that brings comprehensive healthcare services directly to your smartphone, tablet, or computer, eliminating geographical barriers and reducing the time and cost associated with traditional medical visits while maintaining the highest standards of medical care and patient safety. This revolutionary healthcare platform provides instant access to board-certified doctors, specialists, nurses, and healthcare advisors available 24/7 for urgent consultations, routine check-ups, prescription refills, mental health counseling, and preventive care guidance through high-definition video calls, secure messaging, and phone consultations. The comprehensive health record management system maintains a complete digital portfolio of your medical history, lab results, imaging studies, vaccination records, allergy information, medication lists, and treatment plans that can be easily shared with healthcare providers, updated in real-time, and accessed from anywhere in the world. Advanced features include medication reminder systems with dosage tracking and refill notifications, symptom checker tools powered by medical AI that provide preliminary guidance before consultations, appointment scheduling with calendar integration, prescription delivery services that ship medications directly to your home, integration with wearable devices for continuous health monitoring, and family health management tools that allow you to manage healthcare for multiple family members from a single account. The platform also provides access to educational health resources, wellness programs, fitness tracking integration, and preventive care reminders that help you maintain optimal health and catch potential issues before they become serious problems.",
+    "size": 100,
+    "reviews": 83000,
     "ratingAvg": 4.7,
-    "downloads": "4M",
+    "downloads": 4000000,
     "ratings": [
       { "name": "1 star", "count": 1800 },
       { "name": "2 star", "count": 2700 },
@@ -190,16 +190,16 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/FbqctWjd/diego-carneiro-x-FRx-QX7w-JEs-unsplash.jpg",
     "title": "GreenHome",
     "companyName": "EcoTech Living",
     "developer": "Henry Cooper",
     "id": 11,
-    "description": "GreenHome empowers you to live sustainably by monitoring energy use, automating lighting, and managing smart home devices remotely. Track your energy savings and reduce your carbon footprint with intuitive dashboards and automation routines.",
-    "size": "85MB",
-    "reviews": "64K",
+    "description": "GreenHome empowers environmentally conscious homeowners to create sustainable, energy-efficient living spaces through intelligent home automation, comprehensive energy monitoring, and smart device management that not only reduces environmental impact but also delivers significant cost savings while enhancing comfort, convenience, and control over every aspect of your home's energy consumption and environmental footprint. This sophisticated smart home platform seamlessly integrates with hundreds of popular IoT devices including smart thermostats, LED lighting systems, smart plugs, energy monitors, solar panel systems, electric vehicle chargers, smart appliances, and HVAC systems to create a unified, intelligent ecosystem that optimizes energy usage based on your lifestyle patterns, weather conditions, utility rates, and environmental goals. The advanced energy monitoring dashboard provides real-time visibility into electricity, gas, and water consumption with detailed breakdowns by device, room, and time period, enabling you to identify energy-wasting appliances, track the impact of conservation efforts, and make informed decisions about upgrades and replacements. Intelligent automation routines learn your daily schedules and preferences to automatically adjust lighting, temperature, and device operations for optimal efficiency without sacrificing comfort, while sophisticated algorithms analyze utility rate structures to shift energy-intensive activities to off-peak hours for maximum cost savings. The comprehensive carbon footprint calculator tracks your household's environmental impact and provides personalized recommendations for reducing emissions, while goal-setting tools help you establish and achieve sustainability targets with progress tracking and achievement recognition. Additional features include weather integration for proactive energy adjustments, vacation modes for extended absences, security monitoring with environmental sensors, and detailed reporting capabilities that document your environmental impact and savings over time.",
+    "size": 85,
+    "reviews": 64000,
     "ratingAvg": 4.3,
-    "downloads": "3.2M",
+    "downloads": 3200000,
     "ratings": [
       { "name": "1 star", "count": 2900 },
       { "name": "2 star", "count": 4100 },
@@ -209,22 +209,174 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=256&q=80",
+    "image": "https://i.ibb.co.com/BVcPnLqH/farhat-altaf-m-Em1-G8-TPIIs-unsplash.jpg",
     "title": "QuickCook",
     "companyName": "KitchenMate",
     "developer": "Amelia Rivera",
     "id": 12,
-    "description": "QuickCook helps you discover, cook, and share recipes with ease. Explore thousands of step-by-step video guides, create automatic grocery lists, and save your favorites for offline access. Whether you’re a beginner or a chef, QuickCook makes cooking fun and effortless.",
-    "size": "75MB",
-    "reviews": "91K",
+    "description": "QuickCook transforms the art of cooking into an accessible, enjoyable, and educational experience for culinary enthusiasts of all skill levels, from absolute beginners taking their first steps in the kitchen to experienced chefs seeking inspiration and efficiency, by providing an comprehensive culinary companion that combines innovative technology with time-tested cooking wisdom to make meal preparation faster, more successful, and infinitely more rewarding. This revolutionary cooking platform offers access to over 100,000 professionally tested recipes spanning global cuisines, dietary preferences, skill levels, and cooking methods, each featuring high-definition step-by-step video demonstrations filmed by professional chefs who share insider tips, technique explanations, and troubleshooting advice that ensures consistent, delicious results every time you cook. The intelligent recipe recommendation engine analyzes your taste preferences, dietary restrictions, available ingredients, cooking skill level, and time constraints to suggest perfect meal options, while the innovative ingredient substitution system helps you adapt recipes based on what you have available or need to avoid due to allergies or preferences. The automatic grocery list generator creates organized shopping lists with aisle locations, quantity calculations scaled for your desired serving sizes, and price comparisons from local stores to help you save money while ensuring you never forget a crucial ingredient. Advanced features include voice-guided cooking instructions that keep your hands free while preparing meals, timer integration with multiple countdown alerts, measurement conversion tools, wine and beverage pairing suggestions, nutritional analysis with macro and micronutrient breakdowns, meal planning calendars with prep time optimization, and offline recipe access for cooking anywhere without internet connectivity. The vibrant community features enable recipe sharing, cooking challenges, expert Q&A sessions, and social connections with fellow cooking enthusiasts who share your passion for creating delicious, memorable meals.",
+    "size": 75,
+    "reviews": 91000,
     "ratingAvg": 4.8,
-    "downloads": "4.5M",
+    "downloads": 4500000,
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1900 },
       { "name": "3 star", "count": 4700 },
       { "name": "4 star", "count": 16000 },
       { "name": "5 star", "count": 67200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sdGWMRvf/sq-lim-1-Nes-Fs-5-VGo-unsplash.jpg",
+    "title": "TravelBooker Pro",
+    "companyName": "Wanderlust Technologies",
+    "developer": "Marcus Johnson",
+    "id": 13,
+    "description": "TravelBooker Pro revolutionizes the way you plan, book, and experience travel by consolidating the entire journey planning process into one intelligent, user-friendly platform that leverages artificial intelligence, real-time data analysis, and comprehensive travel industry partnerships to deliver personalized travel experiences that exceed expectations while saving time, money, and eliminating the stress traditionally associated with travel planning. This sophisticated travel companion provides access to millions of flights, hotels, rental cars, vacation rentals, activities, and experiences from thousands of trusted providers worldwide, with real-time pricing comparisons, availability updates, and exclusive deals that aren't available through traditional booking channels. The AI-powered trip planning engine analyzes your travel preferences, budget constraints, schedule flexibility, destination interests, and past travel history to create customized itineraries that perfectly match your style, whether you're seeking luxury relaxation, adventure exploration, cultural immersion, business efficiency, or family-friendly experiences. Advanced features include price prediction algorithms that recommend optimal booking times, flexible date searches that identify the cheapest travel periods, multi-city trip planning with complex routing optimization, group booking coordination tools, travel document management, visa requirement checking, weather forecasting integration, and comprehensive travel insurance options. The platform's collaborative features enable shared trip planning with family and friends, expense splitting and tracking, real-time itinerary sharing, and group communication tools that keep everyone informed and coordinated throughout the journey. Post-booking services include mobile check-in assistance, flight status monitoring with proactive rebooking options, local recommendations based on your location and preferences, expense tracking with receipt scanning, travel journal creation with photo integration, and 24/7 customer support for any travel disruptions or emergencies that may arise during your journey.",
+    "size": 165,
+    "reviews": 143000,
+    "ratingAvg": 4.4,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 6800 },
+      { "name": "2 star", "count": 8400 },
+      { "name": "3 star", "count": 15200 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 70600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BVZg7LJY/farhat-altaf-C16-YHBer-Cg4-unsplash.jpg",
+    "title": "ZenMind Meditation",
+    "companyName": "Peaceful Solutions Inc.",
+    "developer": "Isabella Chen",
+    "id": 14,
+    "description": "ZenMind Meditation transforms your daily life through the ancient wisdom of mindfulness and meditation, skillfully adapted for modern lifestyles using scientifically-backed techniques, personalized guidance, and innovative technology to help you reduce stress, improve focus, enhance emotional well-being, and cultivate inner peace in our increasingly chaotic world. This comprehensive wellness platform offers thousands of guided meditation sessions led by world-renowned meditation teachers, monks, and wellness experts, covering diverse practices including mindfulness meditation, loving-kindness meditation, body scan techniques, breathing exercises, walking meditations, sleep stories, anxiety relief sessions, focus enhancement programs, and specialized content for specific life challenges such as grief, relationships, work stress, and personal growth. The intelligent recommendation system analyzes your meditation history, stress patterns, sleep quality, mood fluctuations, and life circumstances to suggest personalized meditation programs that evolve with your progress and changing needs. Advanced biometric integration with smartwatches and fitness trackers monitors your heart rate variability, stress levels, and recovery metrics to provide objective insights into your meditation effectiveness and overall well-being improvements. The app includes innovative features such as ambient nature sounds and white noise for enhanced focus, customizable meditation timers with interval bells, progress tracking with streak counters and achievement badges, mood journaling with trend analysis, gratitude practice tools, breathing exercise guides with visual breathing cues, and offline content access for meditation anywhere without internet connectivity. Community features connect you with fellow practitioners through group challenges, shared experiences, discussion forums, and local meditation group finder tools that help you build a supportive mindfulness community both online and in your local area.",
+    "size": 92,
+    "reviews": 76000,
+    "ratingAvg": 4.9,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 57200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYHmLn4c/thomas-dumortier-Y2-4-Gaadm-X4-unsplash.jpg",
+    "title": "FoodieExpress",
+    "companyName": "Culinary Connect",
+    "developer": "Diego Rodriguez",
+    "id": 15,
+    "description": "FoodieExpress redefines food delivery and dining experiences by connecting food lovers with the best local restaurants, hidden culinary gems, and specialty food providers through an intelligent platform that prioritizes quality, speed, sustainability, and customer satisfaction while supporting local businesses and promoting culinary diversity in your community. This comprehensive food delivery ecosystem goes beyond simple ordering by offering detailed restaurant information including chef backgrounds, ingredient sourcing, dietary accommodation capabilities, preparation methods, and authentic customer reviews from verified diners who share similar taste preferences. The AI-powered recommendation engine analyzes your food preferences, dietary restrictions, ordering history, time of day patterns, weather conditions, and mood indicators to suggest perfect meal options that consistently exceed expectations. Advanced features include real-time order tracking with GPS integration, estimated delivery time algorithms that account for traffic and restaurant preparation speeds, multiple payment options including digital wallets and loyalty points, group ordering coordination for office lunches and family dinners, scheduled ordering for future meals, and exclusive access to limited-time menu items and chef specials. The platform supports multiple delivery options including contactless delivery with photo confirmation, pickup scheduling with queue management, and dine-in reservation integration that seamlessly transitions between delivery and restaurant experiences. Sustainability features include eco-friendly packaging preferences, carbon footprint tracking for delivery routes, local sourcing transparency, food waste reduction partnerships with restaurants, and community garden integration for ultra-local produce delivery. Social features enable meal sharing with friends, dining experience reviews with photo uploads, foodie community engagement, restaurant discovery through friend recommendations, and culinary event notifications for food festivals, chef demonstrations, and special dining experiences in your area.",
+    "size": 127,
+    "reviews": 234000,
+    "ratingAvg": 4.2,
+    "downloads": 18500000,
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 22000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 78000 },
+      { "name": "5 star", "count": 71000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ycg3tYYq/europeana-Gw-GZ4qb9z-UQ-unsplash.jpg",
+    "title": "PolyLingo Master",
+    "companyName": "Global Language Systems",
+    "developer": "Elena Petrov",
+    "id": 16,
+    "description": "PolyLingo Master transforms language learning into an engaging, effective, and personalized journey that adapts to your unique learning style, schedule, and goals through cutting-edge AI technology, immersive content, and scientifically-proven pedagogical methods that ensure rapid progress and long-term retention across over 40 languages from beginner to advanced proficiency levels. This comprehensive language acquisition platform combines interactive lessons with real-world application through authentic conversations with native speakers, immersive virtual reality experiences, cultural context learning, and practical scenario-based exercises that prepare you for genuine communication in professional, social, and travel situations. The adaptive learning algorithm continuously analyzes your progress, identifies individual strengths and challenges, adjusts difficulty levels in real-time, and personalizes content delivery to optimize your learning efficiency while maintaining engagement and motivation throughout your language journey. Advanced features include speech recognition technology with pronunciation coaching, conversational AI partners for unlimited practice, grammar explanations with visual learning aids, vocabulary expansion through spaced repetition systems, writing practice with instant feedback, listening comprehension exercises with various accents and speaking speeds, and cultural immersion content including music, literature, films, and local customs that provide context and deeper understanding. The platform offers flexible learning paths including intensive courses for rapid acquisition, casual learning for busy schedules, business language specialization, travel-focused modules, academic preparation for language certifications, and maintenance programs for preserving fluency. Social learning features connect you with fellow language learners worldwide through conversation exchanges, study groups, cultural immersion challenges, progress sharing, and native speaker mentorship programs that create a supportive global community dedicated to multilingual communication and cultural understanding.",
+    "size": 156,
+    "reviews": 189000,
+    "ratingAvg": 4.6,
+    "downloads": 12300000,
+    "ratings": [
+      { "name": "1 star", "count": 8500 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 21000 },
+      { "name": "4 star", "count": 67000 },
+      { "name": "5 star", "count": 81500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whSS2ZT0/milad-fakurian-m-Eutep3-Poow-unsplash.jpg",
+    "title": "HeartConnect",
+    "companyName": "Authentic Relationships Co.",
+    "developer": "Ryan Foster",
+    "id": 17,
+    "description": "HeartConnect revolutionizes online dating and relationship building by prioritizing authentic connections, meaningful conversations, and compatibility matching over superficial swiping, using advanced psychology-based algorithms, personality assessments, and values alignment systems to help you find genuine, long-lasting relationships with people who truly complement your life goals, interests, and relationship aspirations. This sophisticated dating platform moves beyond appearance-based matching by incorporating comprehensive personality profiling, lifestyle compatibility analysis, communication style assessment, relationship goal alignment, and deep values exploration to create connections that have the foundation for meaningful, lasting partnerships. The intelligent matching system analyzes thousands of compatibility factors including emotional intelligence, conflict resolution styles, life priorities, family values, career ambitions, hobby interests, travel preferences, and future planning approaches to identify potential partners with whom you share genuine compatibility and relationship potential. Advanced communication features include icebreaker suggestions based on shared interests, conversation starters that go beyond small talk, video date scheduling with virtual backgrounds, voice message exchanges that reveal personality nuances, collaborative playlist creation for shared music discovery, and interactive games that help you learn about each other in fun, relaxed environments. Safety and authenticity verification systems include photo verification with AI detection of fake profiles, background check options, video call requirements before meeting, reputation systems based on user behavior, reporting mechanisms for inappropriate conduct, and comprehensive privacy controls that protect your personal information while enabling meaningful connections. The platform also provides relationship coaching resources, dating advice from certified counselors, communication skill development tools, and post-match support including first date planning assistance, conversation guidance, and ongoing relationship development resources that help you navigate the journey from initial connection to committed partnership.",
+    "size": 134,
+    "reviews": 167000,
+    "ratingAvg": 4.1,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 34000 },
+      { "name": "4 star", "count": 52000 },
+      { "name": "5 star", "count": 48000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dsBjWr6k/europeana-v5-PCe-RQd2-Y4-unsplash.jpg",
+    "title": "WeatherWise Pro",
+    "companyName": "MeteoTech Solutions",
+    "developer": "Sarah Kim",
+    "id": 18,
+    "description": "WeatherWise Pro delivers hyperlocal weather intelligence and environmental insights that go far beyond basic forecasts, providing comprehensive atmospheric analysis, personalized weather recommendations, and proactive alerts that help you make informed decisions about your daily activities, travel plans, health considerations, and outdoor pursuits with unprecedented accuracy and relevance to your specific location and lifestyle needs. This advanced meteorological platform combines data from thousands of weather stations, satellite imagery, radar systems, and crowd-sourced observations to create highly detailed microclimate forecasts that can vary significantly even within the same city, ensuring you receive the most accurate weather information for your exact location rather than generalized regional predictions. The intelligent recommendation engine analyzes your calendar, location history, activity preferences, health conditions, and weather sensitivity patterns to provide personalized suggestions for clothing choices, outdoor activity timing, commute route optimization, allergy management, and travel planning that maximize comfort and safety while minimizing weather-related disruptions. Advanced features include minute-by-minute precipitation forecasts with storm tracking, air quality monitoring with pollutant breakdowns and health impact assessments, UV index warnings with sun safety recommendations, severe weather alerting with emergency preparation guidance, agricultural insights for gardening and farming activities, and marine weather data for boating and fishing enthusiasts. The comprehensive historical weather database enables climate trend analysis, seasonal planning, and long-term forecasting that helps you understand weather patterns and prepare for recurring seasonal challenges. Specialized tools include weather radar with animated storm tracking, lightning detection with real-time strike locations, wind pattern analysis for outdoor sports, temperature trend predictions, humidity and comfort index calculations, and integration with smart home devices for automated climate control optimization based on weather conditions and energy efficiency goals.",
+    "size": 98,
+    "reviews": 124000,
+    "ratingAvg": 4.5,
+    "downloads": 6700000,
+    "ratings": [
+      { "name": "1 star", "count": 5200 },
+      { "name": "2 star", "count": 6800 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 61000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m5KRvQdN/farhat-altaf-2-X1-Cb-J8k-VL0-unsplash.jpg",
+    "title": "SecureBank Mobile",
+    "companyName": "TrustBank Financial",
+    "developer": "Michael Chang",
+    "id": 19,
+    "description": "SecureBank Mobile redefines digital banking by combining cutting-edge security technology with intuitive user experience design to provide comprehensive financial services that prioritize customer safety, convenience, and control while delivering advanced banking features that rival and exceed traditional branch services through innovative mobile-first banking solutions. This state-of-the-art banking platform implements multiple layers of security including biometric authentication with fingerprint and facial recognition, advanced encryption protocols, behavioral analysis for fraud detection, real-time transaction monitoring, and comprehensive identity verification systems that protect your financial assets while ensuring seamless access to your accounts and services. The comprehensive account management system provides real-time balance updates, detailed transaction history with intelligent categorization, spending analysis with budget tracking tools, bill pay scheduling with automatic reminders, fund transfer capabilities between accounts and to external recipients, mobile check deposits with instant processing, and ATM locator services with fee transparency and availability status. Advanced financial management features include personalized budgeting tools with spending alerts, savings goal tracking with automated transfers, investment account integration with portfolio monitoring, credit score tracking with improvement recommendations, loan application processing with instant pre-approval decisions, and financial planning resources including retirement calculators and education savings programs. The platform also offers innovative services such as cardless ATM access through secure QR codes, peer-to-peer payment systems with social integration, merchant payment solutions for small businesses, travel notification systems for seamless international banking, currency exchange services with competitive rates, and 24/7 customer support through secure chat, phone, and video calling options that ensure help is always available when you need assistance with your banking needs.",
+    "size": 87,
+    "reviews": 156000,
+    "ratingAvg": 4.3,
+    "downloads": 11200000,
+    "ratings": [
+      { "name": "1 star", "count": 8900 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 23000 },
+      { "name": "4 star", "count": 56000 },
+      { "name": "5 star", "count": 56100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1Y5vp5cj/manas-rb-xf-Rj81uu2-QM-unsplash.jpg",
+    "title": "HomeSafe Guardian",
+    "companyName": "SecureHome Technologies",
+    "developer": "Jennifer Williams",
+    "id": 20,
+    "description": "HomeSafe Guardian transforms residential security through intelligent monitoring, proactive threat detection, and comprehensive home automation integration that provides unprecedented protection, peace of mind, and control over your home environment while seamlessly blending advanced security technology with user-friendly operation that makes professional-grade home security accessible to everyone regardless of technical expertise. This comprehensive security ecosystem integrates multiple detection systems including HD security cameras with night vision and motion tracking, smart doorbell cameras with two-way communication, window and door sensors with instant breach alerts, motion detectors with pet-friendly technology, glass break sensors, smoke and carbon monoxide detectors, flood and leak detection systems, and environmental monitoring that tracks temperature, humidity, and air quality changes that could indicate security or safety issues. The intelligent AI-powered monitoring system learns your family's routine patterns, distinguishes between normal household activities and potential security threats, reduces false alarms through advanced pattern recognition, and provides instant notifications with video evidence when suspicious activities are detected. Advanced features include real-time video streaming from any camera location, cloud storage for video recordings with intelligent search capabilities, facial recognition for family members and trusted visitors, package delivery monitoring with theft prevention alerts, emergency response coordination with local authorities, and integration with smart locks, lighting systems, and garage door openers for complete home automation control. The mobile app provides comprehensive remote control capabilities including arming and disarming the system from anywhere, live video monitoring, two-way audio communication with visitors or potential intruders, emergency panic buttons with instant alert dispatch, family member location tracking, visitor management with temporary access codes, and detailed activity logs that maintain a complete record of all home security events for insurance and law enforcement purposes when needed.",
+    "size": 143,
+    "reviews": 89000,
+    "ratingAvg": 4.7,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 2700 },
+      { "name": "2 star", "count": 3600 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 54500 }
     ]
   }
 ]

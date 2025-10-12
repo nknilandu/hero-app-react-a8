@@ -5,6 +5,7 @@ import reviewIcon from '../../assets/icon-review.png'
 import BarChartData from "../BarChart/BarChart";
 import { useState, useEffect } from "react";
 import { getItemData, setItemData, checkItemData } from '../Utilities/utility';
+import { toast } from "react-toastify";
 
 
 export default function AppDetails() {
@@ -18,7 +19,7 @@ export default function AppDetails() {
     const [isInstalled, setIsInstalled] = useState(checkItemData(parseInt(id), 'installed'))
 
 
-    console.log(checkItemData(parseInt(id), 'installed'))
+    // console.log(checkItemData(parseInt(id), 'installed'))
 
 
     const findData = loaderData.find(item => item.id === parseInt(id))
@@ -30,9 +31,17 @@ export default function AppDetails() {
 
 
 
-    const handleClick =()=> {
+    const handleClick = () => {
         setItemData('installed', id)
-        setIsInstalled(true)
+
+        if(isInstalled) {
+            toast('Already Installed')
+        } else{
+            setIsInstalled(true)
+            toast('Successfully Installed')
+        }
+        
+        
     }
 
 
@@ -89,7 +98,7 @@ export default function AppDetails() {
                         <button to='/apps'
                             className="w-fit bg-[#00d390] text-white font-semibold px-8 py-3 rounded text-xl hover: hover:drop-shadow-xl transition-all"
                             onClick={handleClick}
-                            >
+                        >
 
                             {
                                 isInstalled ? 'Installed' : `Install Now (${size})`

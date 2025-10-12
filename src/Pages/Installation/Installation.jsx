@@ -20,6 +20,17 @@ export default function Installation() {
   const [newArrData, setNewArrData] = useState(newArr)
 
 
+  const handleSort = (data) => {
+    if (newArr.length !== 0) {
+      if (data === 0) {
+        setNewArrData([...newArrData].sort((a, b) => a.downloads - b.downloads))
+      } else {
+        setNewArrData([...newArrData].sort((a, b) => b.downloads - a.downloads))
+      }
+    }
+  }
+
+
   return (
     <div className="max-w-7xl mx-auto px-4">
 
@@ -32,19 +43,13 @@ export default function Installation() {
           <h3 className="text-black font-bold text-lg mb-2">({newArr.length}) Apps Found</h3>
 
 
-          <div className="dropdown dropdown-end">
-            <div tabIndex={0} role="button" className="bg-[#f5f5f5] border border-[#d2d2d2] text-[#627382] font-semibold rounded-md px-3 py-2 m-1">
-              <div className="flex items-center justify-center gap-1">
-                <p>Sort By Size </p>
-                <IoMdArrowDropdown />
-              </div>
-            </div>
-            <ul tabIndex="-1" className="dropdown-content menu bg-white text-black text-base rounded-box z-1 w-fit py-2 px-4 shadow-sm">
-              <li><button>Low-High</button></li>
-              <li><button>High-Low</button></li>
-              
-            </ul>
-          </div>
+
+          <select defaultValue="Sort By Size" className="select max-w-[150px] focus:outline-none bg-[#f5f5f5] border border-[#d2d2d2] text-[#627382] ">
+            <option disabled={true}>Sort By Size</option>
+            <option onClick={() => { handleSort(0) }}>Low-High</option>
+            <option onClick={() => { handleSort(1) }}>High-Low</option>
+          </select>
+
         </div>
       </div>
 

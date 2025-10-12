@@ -2,6 +2,7 @@
 import { FiDownload } from "react-icons/fi";
 import { FaStar } from "react-icons/fa";
 import {setItemData, getItemData} from "../Utilities/utility"
+import { toast } from "react-toastify";
 
 export default function InstalledData({ item, newArrData, setNewArrData }) {
 
@@ -22,6 +23,9 @@ export default function InstalledData({ item, newArrData, setNewArrData }) {
         // console.log(filteredDBArr)
 
         localStorage.setItem("installed", JSON.stringify(filteredDBArr))
+
+
+        toast('Uninstall Successful')
 
     }
 
