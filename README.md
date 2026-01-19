@@ -30,7 +30,7 @@ A modern, responsive landing page built to showcase productivity-focused mobile 
 
 ## 📸 Preview
 
-![HERO.IO Landing Page](./preview.png)
+![HERO.IO Landing Page](./proj3.png)
 
 
 
